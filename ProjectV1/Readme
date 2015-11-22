@@ -1,0 +1,5 @@
+To setup the server: 
+	python server.py localhost 9998
+
+To run the Apace Spark Streaming client: 
+	/srv/spark/bin/spark-submit my_stream.py localhost 9998
